@@ -1,5 +1,5 @@
 == README
 
-# Ruby on Rails: первое приложение
+# Ruby on Rails: Первое приложение
 
 Это мое первое приложение для Ruby on Rails
